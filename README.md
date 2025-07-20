@@ -1,68 +1,15 @@
-CalculatorProject
-A simple, responsive calculator web application built with HTML, CSS, and JavaScript. This project supports basic arithmetic operations and is hosted as a static site via GitHub Pages.
+# 🧮 Calculator Project
 
-🔗 Live Demo: https://g1do.github.io/CalculatorProject/cal
+A simple, responsive calculator web application built with **HTML**, **CSS**, and **JavaScript**. Supports basic arithmetic operations and hosted via **GitHub Pages**.
 
-📌 Features
-Perform addition, subtraction, multiplication, and division
+🔗 **Live Demo:** [https://g1do.github.io/CalculatorProject/cal.html](https://g1do.github.io/CalculatorProject/cal.html)
 
-Clear (C) button resets the calculator display
+![Calculator Preview](https://via.placeholder.com/400x500/20232a/ffffff?text=Calculator+UI) <!-- Add real screenshot later -->
 
-Responsive grid-based layout, optimized for desktop and mobile
-
-Accessible in any modern web browser
-
-Supports decimal points and parentheses for more complex expressions
-
-🚀 Getting Started
-✅ Prerequisites
-A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
-
-Git installed on your system (for cloning the repository)
-
-Internet connection (to access the live demo)
-
-🛠 Installation & Setup
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/G1DO/CalculatorProject.git
-2. Navigate to the Project Directory
-bash
-Copy
-Edit
-cd CalculatorProject
-3. Open the Application
-Depending on your OS:
-
-Windows:
-
-bash
-Copy
-Edit
-start cal/index.html
-macOS:
-
-bash
-Copy
-Edit
-open cal/index.html
-Linux:
-
-bash
-Copy
-Edit
-xdg-open cal/index.html
-💡 Make sure the cal folder contains index.html or your main HTML file.
-
-🎯 Usage
-Click numeric buttons to input values
-
-Use +, -, ×, / for arithmetic operations
-
-Press = to calculate the result
-
-Press C to clear the display
-
-Parentheses () and decimal . supported for advanced inputs
+## ✨ Features
+- Basic operations: `+`, `-`, `×`, `÷`
+- Clear (`C`) and delete (`←`) functions
+- Responsive grid layout
+- Error handling for invalid operations
+- Keyboard support
+- Lightweight (only 3 files)
