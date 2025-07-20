@@ -2,9 +2,9 @@
 
 A simple, responsive calculator web application built with **HTML**, **CSS**, and **JavaScript**. Supports basic arithmetic operations and hosted via **GitHub Pages**.
 
-🔗 **Live Demo:** [https://g1do.github.io/CalculatorProject/cal.html](https://g1do.github.io/CalculatorProject/cal.html)
+🔗 **Live Demo:** [https://g1do.github.io/CalculatorProject/cal.html](https://g1do.github.io/CalculatorProject/cal)
 
-![Calculator Preview](https://via.placeholder.com/400x500/20232a/ffffff?text=Calculator+UI) <!-- Add real screenshot later -->
+
 
 ## ✨ Features
 - Basic operations: `+`, `-`, `×`, `÷`
